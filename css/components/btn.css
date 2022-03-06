@@ -1,0 +1,14 @@
+.btn{
+	background-color: #9A6558;
+	padding: 15px 20px;
+	border-radius: 10px;
+	color: white;
+	font-style: 0;
+	text-decoration: none;
+	font-family: 'Lato', sans-serif;
+}
+.btn:hover{
+	background-color: white;
+	color: #58683E;
+}
+
